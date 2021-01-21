@@ -12,7 +12,7 @@
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
 
 ### 📝 Tasks
-- [x] Level to 1270 power level on *Destiny 2*.
+- [x] Level to 1270 power level on *Destiny 2*.A
 - [ ] Roll out for __*Ganyu*__ 🥰
 
 ### 🤓 About Me
