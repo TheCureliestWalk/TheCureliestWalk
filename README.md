@@ -4,6 +4,8 @@
   <img src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/ganyu.gif" alt="Ganyu" />
 </h1>
 
+<h2 color="red">RED TEXT</h2>
+
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
 
