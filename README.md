@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/QKqKdG6Dy5MeOSTxZP/giphy-downsized-large.gif" alt="Ganyu" />
+  <img src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/ganyu.gif" alt="Ganyu" />
 </h1>
 
 * 📚 Currently studying in *[secret place]*
