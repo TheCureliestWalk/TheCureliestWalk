@@ -19,7 +19,7 @@ Look at the left sidebar.
 > The ones who accomplish something are the fools who keep pressing onward. The ones who accomplish nothing are the wise who cease advancing. — *[can't remember for the credits.]*
 
 <h2 align="center">
-  <img width="300" src="https://github.com/ihosomnam/ihosomnam/blob/main/assets/code.png" alt="Coding" />
+  <img width="600" src="https://github.com/ihosomnam/ihosomnam/blob/main/assets/code.png" alt="Coding" />
 </h2>
 
 ### Contact
