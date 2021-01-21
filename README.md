@@ -23,7 +23,7 @@ Now, if you are interested in me, just contact me!
 
 <div align="center">
   <img width="500" src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/code5.png" alt="Coding" />
-  <h6>Output: C++ certified in. 2019</h6>
+  <h6>Output: C++ certified in 2019</h6>
 </div>
 
 
