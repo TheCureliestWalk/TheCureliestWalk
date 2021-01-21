@@ -17,13 +17,13 @@
 ### 🤓 About Me
 Look at the left sidebar.
 > The ones who accomplish something are the fools who keep pressing onward. The ones who accomplish nothing are the wise who cease advancing. — *[can't remember for the credits.]*
-```c
-cout << "C++ coding certificated."
-```
 
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihosomnam&count_private=true" alt="Stats" />
-</h1>
+```cpp
+init main(){
+int x = 2020;
+cout << "C++ coding certificated." << x;
+}
+```
 
 ### Contact
 - 🔍 Occasionally active on Twitter [@ihosomnam ](https://twitter.com/ihosomnam)
@@ -31,3 +31,6 @@ cout << "C++ coding certificated."
 - 📞 Hang out on Discord with [Seventh Seraph](https://discord.gg/user/Iho#9066)
 - ✉️ Or *[direct contact](mailto:ihosomnam4741@gmail.com)* me on e-mail.
 
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihosomnam&count_private=true" alt="Stats" />
+</h1>
