@@ -9,7 +9,7 @@
 ![](https://img.shields.io/twitter/follow/iho_oc?style=social)
 ![](https://img.shields.io/github/last-commit/ihosomnam/ihosomnam)
 
-### 📝 Tasks 
+### 📝 Tasks
 - [x] Level to 1270 power level on *Destiny 2*.
 - [ ] Roll out for __*Ganyu*__  *(ﾉ^_^)ﾉ*
 
@@ -18,12 +18,9 @@
 Look at the left sidebar.
 > The ones who accomplish something are the fools who keep pressing onward. The ones who accomplish nothing are the wise who cease advancing. — *[can't remember for the credits.]*
 
-```cpp
-ini main(){
-int x = 2020;
-cout << "C++ coding certificated." << x;
-}
-```
+<h2 align="center">
+  <img src="https://github.com/ihosomnam/ihosomnam/blob/main/assets/code.png" alt="Stats" />
+</h2>
 
 ### Contact
 - 🔍 Occasionally active on Twitter [@ihosomnam ](https://twitter.com/ihosomnam)
