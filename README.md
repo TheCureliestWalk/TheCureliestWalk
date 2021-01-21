@@ -4,10 +4,6 @@
   <img src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/ganyu.gif" alt="Ganyu" />
 </h1>
 
-
-<script src="plugin/markdown/markdown.js"></script>
-
-
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
 
