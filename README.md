@@ -5,6 +5,7 @@
 </h1>
 
 <h2 style="color:red;">THIS IS RED TEXT</h2>
+<span style="color:blue">some *blue* text</span>
 
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
