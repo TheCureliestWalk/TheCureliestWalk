@@ -1,10 +1,10 @@
 
-// [Home](https://github.com/ihosomnam) // [README.MD](https://github.com/ihosomnam/ihosomnam/README.md)
+// [Home](https://github.com/ihosomnam) // [README.MD](https://github.com/ihosomnam/ihosomnam/blob/main/README.md)
 <h1 align="center">
   <img src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/ganyu.gif" alt="Ganyu" />
 </h1>
 
-<p style="color:red;">THIS IS RED TEXT</p>
+<h2 style="color:red;">THIS IS RED TEXT</h2>
 
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
