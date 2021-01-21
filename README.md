@@ -4,18 +4,9 @@
   <img src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/ganyu.gif" alt="Ganyu" />
 </h1>
 
+
 <script src="plugin/markdown/markdown.js"></script>
-<script>
-  Reveal.initialize({
-    plugins: [ RevealMarkdown ]
-  });
-</script>
-<section data-markdown>
-  <script type="text/template">
-    - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-    - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-  </script>
-</section>
+
 
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
