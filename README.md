@@ -11,7 +11,7 @@
 
 ### 📝 Tasks
 - [x] Level to 1270 power level on *Destiny 2*.
-- [ ] Roll out for __*Ganyu*__  *(ﾉ^_^)ﾉ*
+- [ ] Roll out for __*Ganyu*__ 🥰
 
 
 ### 🤓 About Me
