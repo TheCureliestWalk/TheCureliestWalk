@@ -6,9 +6,9 @@
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
 
-![](https://img.shields.io/twitter/follow/iho_oc?style=social)
-![](https://img.shields.io/keybase/pgp/ihos)
-![](https://img.shields.io/github/last-commit/ihosomnam/ihosomnam)
+[![](https://img.shields.io/twitter/follow/iho_oc?style=social)](https://twitter.com/iho_oc)
+[![](https://img.shields.io/keybase/pgp/ihos)](https://keybase.io/ihos)
+[![](https://img.shields.io/github/last-commit/ihosomnam/ihosomnam)](https://github.com/ihosomnam)
 
 
 ### 📝 Tasks
