@@ -19,7 +19,7 @@ Look at the left sidebar.
 > The ones who accomplish something are the fools who keep pressing onward. The ones who accomplish nothing are the wise who cease advancing. — *[can't remember for the credits.]*
 
 ```cpp
-init main(){
+ini main(){
 int x = 2020;
 cout << "C++ coding certificated." << x;
 }
