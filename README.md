@@ -6,11 +6,6 @@
 * 📚 Currently studying in *[secret place]*
 * 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
 
----
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihosomnam&count_private=true" alt="Stats" />
-</h1>
-
 ![](https://img.shields.io/twitter/follow/iho_oc?style=social)
 ![](https://img.shields.io/github/last-commit/ihosomnam/ihosomnam)
 
@@ -26,7 +21,9 @@ Look at the left sidebar.
 cout << "C++ coding certificated."
 ```
 
-
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihosomnam&count_private=true" alt="Stats" />
+</h1>
 
 ### Contact
 - 🔍 Occasionally active on Twitter [@ihosomnam ](https://twitter.com/ihosomnam)
