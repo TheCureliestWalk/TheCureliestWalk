@@ -4,13 +4,12 @@
   <img src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/ganyu.gif" alt="Ganyu" />
 </h1>
 
-* 📚 Currently studying in *[secret place]*
-* 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
-
 [![](https://img.shields.io/twitter/follow/iho_oc?style=social)](https://twitter.com/iho_oc)
 [![](https://img.shields.io/keybase/pgp/ihos)](https://keybase.io/ihos)
 [![](https://img.shields.io/github/last-commit/ihosomnam/ihosomnam)](https://github.com/ihosomnam)
 
+* 📚 Currently studying in *[secret place]*
+* 🎮 Now playing __*Destiny 2*__ and __*Genshin Impact*__.
 
 ### 📝 Tasks
 - [x] Level to 1270 power level on *Destiny 2*.
