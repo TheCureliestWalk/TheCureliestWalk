@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://media1.tenor.com/images/3a150e5f30a2c75272ca0288012741fd/tenor.gif?itemid=19850318" alt="Ganyu" />
+  <img src="https://media.giphy.com/media/GChlIMwp90BmJPPuEI/giphy.gif" alt="Ganyu" />
 </h1>
 
 * 📚 Currently studying in *[secret place]*
