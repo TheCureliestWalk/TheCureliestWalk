@@ -15,10 +15,11 @@
 - [x] Level to 1270 power level on *Destiny 2*.
 - [ ] Roll out for __*Ganyu*__ 🥰
 
-
 ### 🤓 About Me
-Look at the left sidebar.
+My name is: *__see left sidebar__*. I'm living with this quote:
 > The ones who accomplish something are the fools who keep pressing onward. The ones who accomplish nothing are the wise who cease advancing. — *[can't remember for the credits.]*
+
+Now, if you are interested in me, just contact me!
 
 <div align="center">
   <img width="500" src="https://github.com/ihosomnam/ihosomnam/raw/main/assets/code5.png" alt="Coding" />
