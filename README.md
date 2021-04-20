@@ -5,7 +5,7 @@
 ### Contact
 - 🔍 Occasionally active on Twitter [@ihosomnam](https://twitter.com/ihosomnam)
 - 📺 Something live at Twitch [@thecureliestwalk](https://twitch.tv/thecureliestwalk)
-- 📞 Hang out on Discord with [Seventh Seraph](https://discord.gg/user/Iho#9066)
+- 📞 Hang out on Discord with [Seventh Seraph](https://discord.gg/user/300541297029152768)
 - ✉️ Or *[direct contact](mailto:ihosomnam4741@gmail.com)* me on e-mail.
 
 [![](https://img.shields.io/twitter/follow/iho_oc?style=social)](https://twitter.com/iho_oc)
