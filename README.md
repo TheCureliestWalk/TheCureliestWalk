@@ -6,7 +6,7 @@
 - 🔍 Occasionally active on Twitter [@thecureliestwalk](https://twitter.com/thecureliestwalk)
 - 📺 Something live at Twitch [@thecureliestwalk](https://twitch.tv/thecureliestwalk)
 - 📞 Hang out on Discord with [Seventh Seraph](https://discord.gg/user/300541297029152768)
-- ✉️ Or *[direct contact](mailto:WILLBEAVAILABLESOON@gmail.com)* me on e-mail.
+- ✉️ Or *[direct contact](mailto:mail@iho.in.th)* me on e-mail.
 
 [![](https://img.shields.io/twitter/follow/iho_oc?style=social)](https://twitter.com/iho_oc)
 [![](https://img.shields.io/keybase/pgp/ihos)](https://keybase.io/ihos)
